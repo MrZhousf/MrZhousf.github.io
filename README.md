@@ -1,37 +1,27 @@
-## 七夕快乐
+## 七夕？整呗！
 
-You can use the [editor on GitHub](https://github.com/MrZhousf/MrZhousf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+正值七载七夕【2012-2019】，特策划以下活动，请女神亲启：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### （1）红包
+一个不多不少的微信红包（别人有的老娘必须有，哪怕花自己钱，哼！）
 
-### Markdown
+### （2）吃饭
+一个环境优美的小资餐厅
+ps：又有美食照片可以秀啦，窃喜……
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### （3）逛街
+一次看上去很不错的逛街
+ps：老娘早想好了N个pose，一定美美哒！
 
-```markdown
-Syntax highlighted code block
+### （4）以上全部
+ps：看来又可以霸屏了，啦啦……
 
-# Header 1
-## Header 2
-### Header 3
+### 发朋友圈
+发朋友圈，发朋友圈，发朋友圈！重要的事情说三遍！
+在这个节日除了发朋友圈我还能做什么？我想我能做的有很多，有许多事情等着我们去体验与回味。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 请选择
+如果你想要一个能发朋友圈的七夕，请告诉我你的选择。如果你想要一个不一样的七夕，下班老地方见……（我带你压马路，哈哈）
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrZhousf/MrZhousf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+FROM ZSF TO SXQ
