@@ -3,7 +3,8 @@
 正值七载七夕【2012-2019】，臣特策划以下活动，请女王亲启：
 <br><img src="https://github.com/MrZhousf/MrZhousf.github.io/blob/master/s.jpg?raw=true"/>
 ### （1）红包
-一个不多不少的微信红包（别人有的老娘必须有，哪怕花自己钱，哼！）
+一个不多不少的微信红包  <br>
+ps:别人有的老娘必须有，哪怕花自己钱，哼！
 
 ### （2）吃饭
 一个环境优美的小资餐厅  <br>
